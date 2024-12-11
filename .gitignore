@@ -1,0 +1,5 @@
+venv
+*.npz
+*.npy
+*.csv
+.ipynb_checkpoints

@@ -1,0 +1,15 @@
+pandas
+seaborn
+matplotlib
+emoji
+itertools
+kagglehub
+scikit-learn
+nltk
+wordcloud
+google
+numpy
+tensorflow
+scipy
+plotly
+keras-tuner
